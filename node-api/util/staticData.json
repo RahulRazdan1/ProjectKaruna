@@ -1,0 +1,24 @@
+{
+    "userType": [
+        "doner",
+        "receiver",
+        "volunteer"
+    ],
+    "regions": [
+        "Central Region",
+        "East Region",
+        "North Region",
+        "North-East Region",
+        "West Region"
+    ],
+    "deliveryTypes": [
+        "Pickup By Receiver",
+        "Drop off To Receiver",
+        "Sent through Volounteer"
+    ],
+    "requestStatus": [
+        "Pending",
+        "Completed",
+        "Matched"
+    ]
+}

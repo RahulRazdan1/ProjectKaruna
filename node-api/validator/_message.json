@@ -1,0 +1,24 @@
+{
+    "category": {
+        "category": {
+            "nameRequired": "Category name required",
+            "nameString": "Category name must be a string",
+            "nameExist": "Category name already exist",
+            "idRequired": "Category ID required",
+            "invalidId": "Not a valid category Id"
+        },
+        "subcategory": {
+            "nameRequired": "Sub-Category name required",
+            "nameString": "Sub-Category name must be a string",
+            "nameExist": "Sub-Category name already exist",
+            "parentCatRequired": "Category Id missing",
+            "parentCatString": "Parent Category must be a string",
+            "parentCatId": "Not a Valid parent category id type",
+            "parentCatNotFound": "Entered Parent Category is not valid",
+            "isSubCat": "You can not add subcategory under a subcategory"
+        },
+        "valid": {
+            "mongoId": "Not a valid Id"
+        }
+    }
+}

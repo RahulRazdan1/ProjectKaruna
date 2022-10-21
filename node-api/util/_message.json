@@ -1,0 +1,22 @@
+{
+    "errorMessage": {},
+    "successMessage": {
+        "user": {
+            "loggedIn": "User Logged in Successfully",
+            "saved": "User Saved Successfully",
+            "passwordChanged": "Password Updated Successfully",
+            "found": "User data found",
+            "updated": "User data updated successfully"
+        },
+        "category": {
+            "saved": "Category Saved Successfully",
+            "updated": "Category updated successfully",
+            "categoryFound": "Category Found",
+            "subCategoryFound": "Sub-Category found"
+        },
+        "donate": {
+            "saved": "Request added",
+            "delete": "Request deleted"
+        }
+    }
+}

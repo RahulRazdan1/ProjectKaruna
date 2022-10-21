@@ -1,0 +1,469 @@
+/*---- RGBA Colors ----*/
+.overlay-default::before,
+.gallery_overlay:before,
+.default-portfolio-item .overlay-box .port-content,
+.sidebar-gallery a:hover:before {
+	background:rgba(94, 199, 156, 0.8) /* default color */
+}
+.before-muddy:before,
+.how-work:before {
+	background: rgba(67, 71, 58, 0.5);
+}
+#achivment::before,
+.project-img .overlay,
+#banner::before,
+.intro-video a.video-popup:before{
+	background: rgba(0, 0, 0, 0.6);
+}
+.ad-bnr::before {
+	background: rgba(54, 59, 64, 0.5);
+}
+.hover-overlay::before  {
+	background: rgba(231, 231, 231, 0.2);
+}
+.before-dark:before {
+	background: rgba(0, 0, 0, 0.5);
+}
+.inner-banner-1:before {
+	background: rgba(21, 21, 21, 0.8) /* default color */
+}
+.inner-banner-1:after {
+	border-left-color: rgba(21, 21, 21, 0.8); /* default color */
+    border-top-color: rgba(21, 21, 21, 0.8) /* default color */
+}
+/*========= Footer Color ========*/
+.media-footer li a{
+	background: #363837;
+	color: #fff
+}
+#footer {
+	background: #212524 
+}
+#ftr-btm {
+	background: #1b1f1e
+}
+/*========= Font Color ==========*/
+.color-white {
+	color: #fff
+}
+.color-default{
+	color:#5bb591
+}
+.color-primary {
+	color: #f1cf69
+}
+.color-dark {
+	color: #1a1a1a
+}
+.color-black {
+	color: #000
+}
+.br-widget > a.br-active,
+.br-widget > a.br-selected {
+	color:#5bb591
+}
+#success,
+.about-link .overlay a,
+.pricing-table .rate span,
+.discount,
+.edu-title {
+	color:#5bb591
+}
+.nav-style-3.four .navbar-default .navbar-nav li.visible > a,
+.nav-style-3.four .navbar-default .navbar-nav li.visible > a:hover,
+.nav-style-3.four .navbar-default .navbar-nav li.visible > a:focus,
+.nav-style-3.four .bootstrap-select .dropdown-menu.inner li:hover a,
+.nav-style-3.four .bootstrap-select .dropdown-menu.inner li.selected a{
+	color:#fff
+}
+.choose-reason li i:before,
+.quick-help i,
+.widget.contact_info li i,
+.widget li a:hover,
+.wel-con.middle [class^="flaticon-"]::before, 
+.wel-con.middle [class*=" flaticon-"]::before,
+.srvc-icon [class^="flaticon-"]::before, 
+.srvc-icon [class*=" flaticon-"]::before,
+.help-info span [class^="flaticon-"]::before, 
+.help-info span [class*=" flaticon-"]::before {
+	color:#5bb591
+}
+.navbar-default .navbar-nav li.visible > a,
+.navbar-default .navbar-nav li.visible > a:hover,
+.navbar-default .navbar-nav li.visible > a:focus,
+.bootstrap-select .dropdown-menu.inner li:hover a,
+.bootstrap-select .dropdown-menu.inner li.selected a,
+.arrow1 a.btn-primary:hover {
+	color:#5bb591
+}
+.srvc-item:hover .srvc-icon [class^="flaticon-"]::before, 
+.srvc-item:hover .srvc-icon [class*=" flaticon-"]::before, 
+.srvc-item:hover .srvc-icon [class^="flaticon-"]::after, 
+.srvc-item:hover .srvc-icon [class*=" flaticon-"]::after,
+.srvc-item:hover .inner-title {
+	color:#000
+}
+.featured-tab .nav-tabs li.active a,
+.featured-tab .nav-tabs li:hover a,
+.featured-tab .nav-tabs li.active:hover a,
+.featured-tab .nav-tabs li.active:focus a,
+.featured-tab .nav-tabs li.active a span,
+.featured-tab .nav-tabs li:hover a span,
+.featured-tab .nav-tabs li.active:hover a span,
+.featured-tab .nav-tabs li.active:focus a span {
+	color: #5bb591
+}
+.srvc-item:hover a, .event_tag ul a {
+	color: #000
+}
+.faq-question .according_details {
+	color: #e1e1e1
+}
+.about-link .overlay .inner-title,
+.faq-question .according_title,
+.faq-question .inner-title,
+.srvc-item:hover p {
+	color: #fff
+}
+.team_member .name a,
+.overview-caption p,
+.remaining-time,
+.color > span, 
+.size > span, 
+.quantity > span,
+.btn-large,
+.skill-percent,
+.prgs-bar > span,
+.pro-bio tr td:first-child,
+.recent-post > .post > a,
+blockquote {
+	color: #1a1a1a
+}
+.sldr-content p,
+.user-nav li a .cart-item {
+	color: #fff
+}
+.nav-style-3 .navbar-nav li a,
+.nav-style-3 .user-nav > li > a,
+.nav-style-2 .navbar-nav li a,
+.nav-style-2 .user-nav > li > a,
+.fixed-header .navbar-nav li a,
+.fixed-header .user-nav a,
+.navbar-nav li a,
+.srvc-ctgry a,
+.prdct-lst > li > a,
+.prdct-lst li a {
+	color:#444
+}
+.navbar-nav li ul.dropdown-menu li a,
+.top-info-left li span,
+.slider-title,
+.team_member .soc-icon a:hover i,
+.navbar-nav > li > a,
+.srvc-ctgry > a,
+.user-nav > li > a,
+.fixed-header .user-nav a.btn,
+.nav-style-4.four .navbar-default .navbar-left > li > a,
+.nav-style-4.four .user-nav > li > a {
+	color:#fff
+}
+.nav-style-4.four .navbar-default .navbar-left > li > a:hover,
+.nav-style-4.four .navbar-default .navbar-left > li > a:focus,
+.nav-style-4.four .navbar-default .navbar-left > li.active > a{
+	color: #fff
+}
+.fixed-header .navbar-default .navbar-nav .active a, 
+.fixed-header .navbar-default .navbar-nav .active a:hover, 
+.fixed-header .navbar-default .navbar-nav .active a:focus {
+	color: #5bb591
+}
+.news-txt a .news-title:hover,
+.team_member .name a:hover,
+.faq-question .according_title.active,
+.navbar-nav li ul.dropdown-menu > li > a:hover,
+.navbar-nav li ul.dropdown-menu > li > a:focus,
+.account li a:hover,
+.account li a:focus {
+	color: #f1cf69
+}
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+	background-color: transparent;
+	color: #5bb591
+}
+.navbar-default .navbar-nav > li:hover > a,
+.navbar-default .navbar-nav > li:focus > a {
+	background-color: transparent;
+	color: #f1cf69
+}
+.team_member .soc-icon a,
+.cnct-item  a {
+	color: #818181
+}
+.meta_info i, .share_this a:hover,
+.event_description blockquote i,
+.event_organizer span, .tags span{
+	color:#5bb591
+}
+/*=========== Background Color ===========*/
+.bg-default {
+	background-color: #5bb591;
+	color: #fff
+}
+.inner-title a:hover {
+	color: #f1cf69
+}
+.bg-primary {
+	background-color: #f1cf69
+}
+.bg-gray {
+	background-color: #f5f5f5
+}
+.bg-white {
+	background-color: #fff
+}
+.dropdown-menu,
+.bg-dark {
+	background-color: #1a1a1a
+}
+.nav-style-4.four .navbar-nav > li.active a,
+.nav-style-4.four .navbar-nav > li:hover{
+	background:#5bb591
+}
+.history-tab .year-list li a,
+.sidebar-gallery a:hover::before {
+	background:#5bb591
+}
+.srvc-ctgry li.active a,
+.welfare_meta li a:hover {
+	background:#5bb591;
+	color: #fff
+}
+.blog-img a {
+	background: #fff;
+	color: #5bb591
+}
+#header.fixed-header .main-nav, 
+.color-white.down-line::before,
+.team_member .soc-icon a,
+.welfare_meta li a,
+.event_tag ul a{
+	background: #fff
+}
+.intro-video:after,
+.background-shade::after,
+.media-footer li a:hover,
+.faq-question .according_title::before, 
+.faq-question .according_title::after,
+.srvc-item:hover,
+.according_title.active,
+.how-work .video-popup span,
+.progress-bar {
+	background: #f1cf69
+}
+.btn-primary:active, 
+.btn-primary.active, 
+.open > .dropdown-toggle.btn-primary,
+.btn-primary:hover {
+	background: transparent;
+	color: #f1cf69
+}
+.btn-primary:focus,
+.btn-primary.focus {
+	background: transparent;
+	color: #5bb591
+}
+.btn-default {
+	background-color: #5bb591;
+	border-color: #5bb591;
+	color: #fff
+}
+.btn-default:hover,
+.btn-default:focus{
+	background-color: transparent;
+	border-color: #5bb591;
+	color: #5bb591
+}
+.project-img .overlay a.btn-default:hover {
+	background: #f1cf69;
+	border-color: #f1cf69;
+	color: #fff
+}
+.video-popup span,
+.down-line::before,
+.filter-btns li:hover,
+.filter-btns li.active {
+	background: #5bb591
+}
+.team_member .soc-icon a:hover,
+.fixed-header .navbar-nav li a .cart-item,
+.tags a:hover {
+	background: #5bb591;
+	color: #fff
+}
+.team_member {
+	background: #f8f8f8
+}
+.project-grid .caption,
+.according_title,
+.prdct-img,
+.product-filter,
+.single-product-slider,
+.filter-range::before,
+.filter-range::after,
+.filter-btns li,
+.client-feed,
+.pro-link,
+.prfl-progress .progress{
+	background: #f5f5f5
+}
+#slider .carousel-caption h1,
+.user-nav li a .cart-item,
+.panel-title a {
+	background: #5bb591
+}
+.owl-theme .owl-dots .owl-dot span {
+	background: #ccc
+}
+.according_title::before,
+.according_title::after {
+	background: #818181
+}
+.brchr li a:hover{
+	background-color: #1a1a1a
+}
+/*========= Border Color ==========*/
+.down-angle-gray::before{
+	border-color: #f5f5f5 transparent transparent transparent
+}
+.down-angle-white::before{
+	border-color: #fff transparent transparent transparent
+}
+.owl-theme .owl-dots .owl-dot span {
+	border-color: #fff
+}
+.recent-review.owl-theme .owl-dots .owl-dot span,
+.service-grids.owl-theme .owl-dots .owl-dot span {
+	border-color: #f5f5f5
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+	border-color: #5bb591;
+	background: transparent
+}
+blockquote {
+	border-left: 5px solid #5bb591;
+}
+.user-nav li a .cart-item::before {
+	border-color: transparent transparent transparent #5bb591;
+}
+.filter-btns li:hover,
+.filter-btns li.active,
+.filter-range::after,
+.filter-range::before {
+	border-color: #5bb591
+}
+/*========= Home Page =======*/
+.filter-btns li:hover,
+.filter-btns li.active {
+	color: #fff
+}
+.cart-item, 
+.wel-mdl a,
+.check-lst i,
+.clnt-txt h6 a,
+.news-txt span a,
+.soc-icon a, 
+#single-blog .soc-icon a:hover, 
+.tweet i,
+.rating i,
+.comment i,
+.post_area i,
+.spec-text,
+.com-info a{
+	color:#5bb591
+}
+.supply-content span,
+.ft-list li a:hover,
+.title span,
+.bnr-nav li .active, 
+.error-con h1,
+.pro-detail h2, 
+.acdmc-dtl h6, 
+.prdct-avlblt{
+	color:#5bb591
+}
+.team-item:hover .tm-text a, 
+.bnr-nav li .bnr-home:hover, 
+.prdct-lst li a:hover, 
+.blog-category li a:hover, 
+.archive li a:hover, 
+.twt-txt > a:hover{
+	color:#5bb591
+} 
+.btn-primary,
+.btn-submit,
+.abt-item,
+.btn-filter,
+.sale,
+.pro-link .soc-icon a,
+.brchr li{
+	background:#f1cf69;
+	-moz-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	-webkit-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out
+}
+.filter-range,
+.bullets > span > a.active, 
+.view-ctgry li a i.active, 
+.populer_comment .nav-tabs > li.active > a, 
+.populer_comment .nav-tabs > li.active > a:focus, 
+.pagination li.active a{
+	background:#5bb591
+}
+#service-pg .srvc-item:hover, 
+.pagination a:hover, 
+.view-ctgry li a i:hover, 
+.search-box > a:hover, 
+.populer_comment .nav-tabs > li > a:hover, 
+.srvc-ctgry li a:hover, 
+.quantity button:hover {
+	background:#5bb591
+}
+
+.btn-primary,
+.product-thumbnail:hover .prdct-img{
+	border-color:#f1cf69
+}
+.popular_tab > li > a:before{
+	border-top-color:#5bb591
+}
+.tab-menu .nav-tabs > li.active > a, 
+.tab-menu .nav-tabs > li > a:hover, 
+.tab-menu .nav-tabs > li.active > a:focus{
+	border-bottom:3px solid #5bb591
+}
+#header .dropdown-menu > .active > a, 
+#header .dropdown-menu > .active > a:hover, 
+#header .dropdown-menu > .active > a:focus {
+  background-color: transparent;
+  color: #f1cf69
+}
+@media (max-width:991px){
+.navbar-default .navbar-collapse{
+	border-color: #1a1a1a
+}
+.navbar-nav li ul.dropdown-menu li a{
+	color: #444
+}
+.nav-style-3.four .navbar-nav > li.active a,
+.nav-style-3.four .navbar-nav > li:hover{
+	background-color: transparent
+}
+.nav-style-3.four .navbar-nav li a{
+	color: #fff
+}
+}

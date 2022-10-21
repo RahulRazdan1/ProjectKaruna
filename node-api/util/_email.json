@@ -1,0 +1,19 @@
+{
+    "cases": {
+        "REGISTER": "Register",
+        "CHANGE_PASSWORD": "ChangePassword"
+    },
+    "success": {
+        "subject": {
+            "REGISTER": "Karuna - Welcome",
+            "CHANGE_PASSWORD": "Karuna - Change password"
+        },
+        "emailBody": {
+            "REGISTER": "Hi <name>,\n\nYou have been registered .\n\nThanks\nTeam Karuna",
+            "CHANGE_PASSWORD": "Hi <name>,\n\nYour change password OTP is .\n\nThanks\nTeam Karuna"
+        }
+    },
+    "error": {
+        "email": "Email couldn't be sent"
+    }
+}
